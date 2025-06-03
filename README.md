@@ -51,8 +51,8 @@ Dieses Projekt steht unter der [MIT License](LICENSE).
 
 ## 👤 Autor
 
-[Dein Name oder GitHub-Profil verlinken]
-
+Andreas Pfeffer
+https://github.com/Andreas-pf
 ---
 
 *Dieses Repository ist Teil meines persönlichen Portfolios zur Demonstration praktischer Programmierkenntnisse im Bereich Machine Learning und Astrophysik.*
