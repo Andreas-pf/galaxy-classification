@@ -32,3 +32,6 @@ data/raw/
 
 # Environment variables
 .env
+
+# DS Store
+.DS_Store
